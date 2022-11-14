@@ -1,6 +1,11 @@
-# exercise-markdown
 [Lien markdown.md](./markdown.md)
-Aurélien Mariaule
-Nadim El Nakadi
-Lysie Soyez
-Jonathan Bajoux
+
+### Membres du groupes:
+ -Aurélien Mariaule
+-Nadim El Nakadi
+-Lysie Soyez
+-Jonathan Bajoux
+
+## Description du dêpot:
+
+Description du Markdown
