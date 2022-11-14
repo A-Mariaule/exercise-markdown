@@ -6,6 +6,6 @@
 -Lysie Soyez
 -Jonathan Bajoux
 
-## Description du dêpot:
+## Description du dépot:
 
 Description du Markdown
